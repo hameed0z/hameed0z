@@ -1,4 +1,4 @@
-### Hi there 👋 It's hameed
+### Hi there 👋 It's Hameed
 #### A Software Engineer based on Alexandria, Egypt. 
 
 Currently I work as a full-stack software engineer. </br>
