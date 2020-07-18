@@ -3,6 +3,6 @@
 ### A Software Engineer based on Alexandria, Egypt. 
 
 Currently I work as a full-stack software engineer. </br>
-And i study to pursue masters degree in Computer Scienc
+And i study to pursue masters degree in Computer Science.
 
 ![7ameed's github stats](https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true)
