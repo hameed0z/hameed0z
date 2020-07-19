@@ -1,8 +1,6 @@
-<div style="flex-direction:row;">
-<div><img align="left" src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="300"></div>
-<div>
 </div>
-<h1>Hi there 👋🏼 It's Hameed</h1>
+<h1>Hi there 👋🏼 It's Hameed<img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="200"></h1>
+
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
 <p> Currently I work as a full-stack software engineer. </p>
