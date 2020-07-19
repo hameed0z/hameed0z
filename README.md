@@ -1,10 +1,9 @@
 </div>
-<img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250"><h1>Hi there 👋🏼</h1><h1> It's Hameed</h1>
+<h1><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
-<p> Currently I work as a full-stack software engineer. </p>
-<p> And i study to pursue masters degree in Computer Science </p>
+<p> Currently I work as a full-stack software engineer And i study to pursue masters degree in Computer Science </p>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
