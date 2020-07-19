@@ -1,5 +1,5 @@
 </div>
-<h1><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
+<img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250"><h1>Hi there 👋🏼</h1><h1> It's Hameed</h1>
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
