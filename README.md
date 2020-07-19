@@ -1,5 +1,5 @@
 <div style="flex-direction:row;">
-<div><img align="left" src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="350"></div>
+<div><img align="left" src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="300"></div>
 <div>
 </div>
 <h1>Hi there 👋🏼 It's Hameed</h1>
