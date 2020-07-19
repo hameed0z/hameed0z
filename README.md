@@ -6,7 +6,7 @@ And i study to pursue masters degree in Computer Science
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
 <br/>
-
+<div>
 <h4> Languages and Tools: </h4>
 <p align="right">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
@@ -18,3 +18,4 @@ And i study to pursue masters degree in Computer Science
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
 
+</div>
