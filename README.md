@@ -7,9 +7,7 @@
 <p> And i study to pursue masters degree in Computer Science </p>
 </div>
 
-<div >
 <img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
-</div>
 
 <div width="100%">
 <h4> Languages and Tools: </h4>
