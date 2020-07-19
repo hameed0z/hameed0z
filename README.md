@@ -5,7 +5,7 @@ Currently I work as a full-stack software engineer. </br>
 And i study to pursue masters degree in Computer Science
 
 **Languages and Tools:** 
-<p align="left">
+<p align="right">
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50">
