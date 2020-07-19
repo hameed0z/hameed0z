@@ -3,7 +3,7 @@
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
-<p> Currently I work as a full-stack software engineer And i study to pursue masters degree in Computer Science </p>
+<p> Currently I work as a full-stack software engineer and I study to pursue masters degree in Computer Science. </p>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
