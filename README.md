@@ -14,4 +14,5 @@ And i study to pursue masters degree in Computer Science
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
+
 ![7ameed's github stats](https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true)
