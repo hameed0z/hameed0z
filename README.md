@@ -1,8 +1,8 @@
-# Hi there 👋🏼 It's Hameed <img align="left" src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="350">
-### A Software Engineer based on Alexandria, Egypt. 
+<img align="left" src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="350"> <h1>Hi there 👋🏼 It's Hameed</h1>
+<h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
-Currently I work as a full-stack software engineer. </br>
-And i study to pursue masters degree in Computer Science
+<p> Currently I work as a full-stack software engineer. </p>
+<p> And i study to pursue masters degree in Computer Science </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
 <br/>
