@@ -3,9 +3,9 @@
 
 <p> Currently I work as a full-stack software engineer. </p>
 <p> And i study to pursue masters degree in Computer Science </p>
-
+<a >
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
-
+</a>
 <div width="100%">
 <h4> Languages and Tools: </h4>
 <p align="right">
