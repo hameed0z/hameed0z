@@ -43,5 +43,5 @@
 
 <p> 
 Looking forward to getting in touch, <br/>
-<b>Cheers 💙 </b>
+<b> Follow me and cheers 💙 </b>
 </p>
