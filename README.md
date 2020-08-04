@@ -2,14 +2,14 @@
 <h1><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
-<a hre="https://twitter.com/hameed0z"><img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="50"></a>
-<a href="https://dev.to/7ameed"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelhameed Muhammad's DEV Profile" width="50"></a>
 
 <p> Currently I work as a full-stack software engineer and I study to pursue masters degree in Computer Science. </p>
 </div>
+
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true&title_color=#2386B2&icon_color=#2386B2" >
 </a>
+
 <div width="100%">
 <h4> Languages & Tools: </h4>
 <p>
@@ -20,6 +20,14 @@
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+</p>
+</div>
+
+<div width="100%">
+<h4> You can reach me on : </h4>
+<p>
+<a href="https://twitter.com/hameed0z"><img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="40"></a>
+<a href="https://dev.to/7ameed"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelhameed Muhammad's DEV Profile" width="35"></a>
 </p>
 </div>
 
