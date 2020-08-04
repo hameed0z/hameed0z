@@ -8,10 +8,6 @@
 <p> In my free time, I practice ML and spend high-quality family time. </p>
 </div>
 
-<a>
-<img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true&title_color=#2386B2&icon_color=#2386B2" >
-</a>
-
 <div width="100%">
 <h4> Languages & Tools: </h4>
 <p>
@@ -42,4 +38,5 @@
 </div>
 
 <br/>
-<h3> Cheers 💙 </h3>
+
+<h3> Looking forward to getting in touch, Cheers 💙 </h3>
