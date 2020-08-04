@@ -3,7 +3,7 @@
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 <a hre="https://twitter.com/hameed0z"><img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="50"></a>
-
+<a href="https://dev.to/7ameed"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelhameed Muhammad's DEV Profile" width="50"></a>
 
 <p> Currently I work as a full-stack software engineer and I study to pursue masters degree in Computer Science. </p>
 </div>
