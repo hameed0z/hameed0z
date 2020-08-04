@@ -29,6 +29,6 @@
 <div width="100%">
 <h4> Top 5 blog posts : </h4>
 
-- [Redis & server sde caching](https://7ameed.github.io/blog/redis_and_mem_caching)
+- [Redis & server side caching](https://7ameed.github.io/blog/redis_and_mem_caching)
 
 </div>
