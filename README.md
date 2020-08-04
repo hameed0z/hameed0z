@@ -30,7 +30,7 @@
 </p>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/Q7opT6UobSFl5HQxjI/giphy.gif" width="200">
+<img align="right" src="https://media.giphy.com/media/Q7opT6UobSFl5HQxjI/giphy.gif" width="150">
 
 <div width="100%">
 <h4> Latest blog posts : </h4>
