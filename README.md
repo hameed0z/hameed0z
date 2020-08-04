@@ -1,15 +1,20 @@
 </div>
-<h1 style="color:#1E90FF;"><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
+<h1><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
+
+
 <p> Currently I work as a full-stack software engineer and I study to pursue masters degree in Computer Science. </p>
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true" >
-
+<a>
+<img src="https://github-readme-stats.vercel.app/api?username=7ameed&show_icons=true&hide_border=true&title_color=#2386B2&icon_color=#2386B2" >
+</a>
+<a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ameed&layout=compact&&hide_border=true&title_color=#2386B2">
+</a>
 <div width="100%">
-<h4> Languages and Tools: </h4>
+<h4> Languages & Tools: </h4>
 <p>
   <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
@@ -19,4 +24,11 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 </p>
+</div>
+
+<div width="100%">
+<h4> Top 5 blog posts : </h4>
+
+- [Redis & server sde caching](https://7ameed.github.io/blog/redis_and_mem_caching)
+
 </div>
