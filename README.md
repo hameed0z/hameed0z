@@ -40,6 +40,7 @@
 <br/>
 
 <p> 
+<img align="right" src="https://media.giphy.com/media/Q7opT6UobSFl5HQxjI/giphy.gif" width="80">
 Looking forward to getting in touch, <br/>
 <b>Cheers 💙 </b>
 </p>
