@@ -3,7 +3,9 @@
 
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
-<p> Currently I work as a full-stack software engineer and I study to pursue masters degree in Computer Science. </p>
+<p> I hold a Bs. Computer Science and now I study to pursue a masters degree. </p>
+<p> Currently, I work as a full-time full-stack software engineer but I'm available for freelancing. </p>
+<p> In my free time, I practice ML and spend high-quality family time. </p>
 </div>
 
 <a>
