@@ -39,4 +39,7 @@
 
 <br/>
 
-<h3> Looking forward to getting in touch, Cheers 💙 </h3>
+<p> 
+Looking forward to getting in touch, <br/>
+<b>Cheers 💙 </b>
+</p>
