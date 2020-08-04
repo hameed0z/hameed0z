@@ -1,6 +1,8 @@
 </div>
 <h1><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
 
+<img align="right" src="https://media.giphy.com/media/Q7opT6UobSFl5HQxjI/giphy.gif" width="200">
+
 <h3> A Software Engineer based on Alexandria, Egypt. </h3>
 
 <p> I hold a Bs. Computer Science and now I study to pursue a masters degree. </p>
@@ -40,7 +42,6 @@
 <br/>
 
 <p> 
-<img align="right" src="https://media.giphy.com/media/Q7opT6UobSFl5HQxjI/giphy.gif" width="80">
 Looking forward to getting in touch, <br/>
 <b>Cheers 💙 </b>
 </p>
