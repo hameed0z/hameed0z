@@ -22,7 +22,7 @@
 </div>
 
 <div width="100%">
-** You can reach me on : **
+<h4> You can reach me on : </h4>
 <p>
 <a href="https://twitter.com/hameed0z"><img src="https://media.giphy.com/media/M9O6ePwNJ58UMF1Rvq/giphy.gif" width="40"></a>
 <a href="https://dev.to/7ameed"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelhameed Muhammad's DEV Profile" width="35"></a>
@@ -33,7 +33,7 @@
 <img align="right" src="https://media.giphy.com/media/Q7opT6UobSFl5HQxjI/giphy.gif" width="150">
 
 <div width="100%">
-** Latest blog posts : **
+<h4> Latest blog posts : </h4>
 
 - [Redis & server side caching](https://7ameed.github.io/blog/redis_and_mem_caching)
 
