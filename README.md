@@ -1,7 +1,7 @@
 </div>
 <h1><img src="https://github.com/7ameed/7ameed/blob/master/hey.png" width="250">Hi there 👋🏼 It's Hameed</h1>
 
-<h3> A Software Engineer and Machine Learning Specialist based on Alexandria City of Egypt. </h3>
+<h3> A Software Engineer and Machine Learning Specialist based on Alexandria City of Egypt🇪🇬. </h3>
 
 <p> Currently, I work as a full-stack software engineer beside my post grad studies in CS. </p>
 <p> In my free time, I practice ML and spend high-quality family time. </p>
