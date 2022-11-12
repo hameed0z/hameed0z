@@ -37,7 +37,8 @@
 <div width="100%">
 <h4> Latest blog posts : </h4>
 
-- [Redis & server side caching](https://7ameed.github.io/blog/redis_and_mem_caching)
+- [Db locking as a pro](https://hameed0z.github.io/blog/db-locking-as-pro)
+- [Redis & server side caching](https://hameed0z.github.io/blog/redis_and_mem_caching)
 
 </div>
 
