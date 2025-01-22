@@ -4,7 +4,7 @@
 <h3> A Software Engineer and Machine Learning Specialist based on Alexandria City of Egypt🇪🇬. </h3>
 
 <p> Currently, I work as a Senior full-stack software engineer beside my post grad studies in CS. </p>
-<p> In my free time, I practice ML and spend high-quality family time with my baby girl (Ghalia) 👶🏻🍼 . </p>
+<p> In my free time, I practice ML and spend high-quality family time with my baby girls (Ghalia👧🏻 & A'lia👶🏻🍼). </p>
 <p> I'm always happy to work on mind blowing ideas/software products. </p>
 <p> Ask me about anything related to the below areas and expertise. </p>
 
